@@ -1,4 +1,3 @@
-import React from 'react'
 import "./Programs.css"
 import program_1 from "../../assets/program-1.png"
 import program_2 from "../../assets/program-2.png"
