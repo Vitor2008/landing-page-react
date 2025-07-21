@@ -10,23 +10,23 @@ const Programs = () => {
   return (
     <div className='programs'>
       <div className="program">
-        <img src={program_1} alt="" />
+        <img src={program_1} alt="" loading='lazy' />
         <div className="caption">
-          <img src={program_icon_1} alt='' />
+          <img src={program_icon_1} alt='' loading='lazy' />
           <p>Graduation Degree</p>
         </div>
       </div>
       <div className="program">
-        <img src={program_2} alt="" />
+        <img src={program_2} alt="" loading='lazy' />
         <div className="caption">
-          <img src={program_icon_2} alt='' />
+          <img src={program_icon_2} alt='' loading='lazy' />
           <p>Masters Degree</p>
         </div>
       </div>
       <div className="program">
         <img src={program_3} alt="" />
         <div className="caption">
-          <img src={program_icon_3} alt='' />
+          <img src={program_icon_3} alt='' loading='lazy' />
           <p>Post Graduation</p>
         </div>
       </div>
